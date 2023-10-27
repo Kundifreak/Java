@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 public class LifePanel extends JPanel {
 	
-	boolean[][] cells;
+	boolean [][] cells;
 	double width;
 	double height;
 	
